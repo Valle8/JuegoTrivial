@@ -36,6 +36,15 @@ public class Juego {
 				System.out.println("Incorrecto");
 				contadorpuntos = contadorpuntos - 1;
 			}
+			resp = JOptionPane.showInputDialog("¿Es débil el tipo fuego frente al tipo roca ?");
+			if (resp.equals("si")) {
+				System.out.println("Correcto");
+				contadorpuntos = contadorpuntos + 1;
+			} else {
+				System.out.println("Incorrecto");
+				contadorpuntos = contadorpuntos - 1;
+			}
+			
 			
 	
 		  
