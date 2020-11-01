@@ -5,9 +5,16 @@ public class Juego {
 	public static void main(String[] args) {
 		String resp;
 		int contadorpuntos=0;
+		System.out.println("___________      .__      .__       .__   \r\n"
+				+ "\\__    ___/______|__|__  _|__|____  |  |  \r\n"
+				+ "  |    |  \\_  __ \\  \\  \\/ /  \\__  \\ |  |  \r\n"
+				+ "  |    |   |  | \\/  |\\   /|  |/ __ \\|  |__\r\n"
+				+ "  |____|   |__|  |__| \\_/ |__(____  /____/\r\n"
+				+ "                                  \\/      ");
 		String ent = JOptionPane.showInputDialog("Bienvenido al Trivial sobre los elementos y movimientos de Pokemon. ¿Desea jugar?"
 				+ "\n 1.SI"
 				+ "\n 2.NO");
+			
 		
 		int respuesta = Integer.parseInt(ent);
 		if (respuesta == 1) {
