@@ -1,4 +1,4 @@
-
+![trivial]([https://images-na.ssl-images-amazon.com/images/I/61K1EvI-pLL.png)
 
 
 Temática: Pokemon y sus movimientos/elementos.
