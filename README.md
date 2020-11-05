@@ -1,7 +1,10 @@
-
+<p align=center">
+  <img width="475" height="400" src="./media/trivial.png"/>
+</p>
 
 
 Temática: Pokemon y sus movimientos/elementos.
+
 Instrucciones:
 
 1. Creo el proyecto en Github.
